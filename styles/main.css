@@ -1,7 +1,6 @@
 body{
 	background: url(https://james-sangalli.github.io/blog/6771527-awesome-3d-backgrounds.jpg);
 	font-family: arial;
-
 }
 
 h1,h2{
@@ -11,6 +10,12 @@ h1,h2{
 a{
 	color: white;
 }
+
+a:hover, a:active {
+	text-decoration: none;
+	color: yellow;
+}
+
 p{
 	color: white;
 }
