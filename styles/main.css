@@ -7,8 +7,23 @@ body{
 font-family: 'Open Sans', sans-serif;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li a {
+	display: block;
+	outline-color: white;
+}
+
 div{
 	border: 10px;
+	border-spacing: 10px;
+}
+img {
+	border: 15px;
 	border-spacing: 10px;
 }
 
