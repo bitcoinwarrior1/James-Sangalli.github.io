@@ -3,6 +3,11 @@ body{
 	font-family: arial;
 }
 
+div{
+	border: 10px;
+	border-spacing: 10px;
+}
+
 h1,h2{
 	color: white;
 }
