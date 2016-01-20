@@ -3,10 +3,6 @@ body{
 	font-family: arial;
 }
 
-*{
-font-family: 'Open Sans', sans-serif;
-}
-
 div{
 	border: 10px;
 	border-spacing: 10px;
