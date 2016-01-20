@@ -11,11 +11,15 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	width: 250px;
+	background-color: green;
 }
 
 li a {
 	display: block;
 	outline-color: white;
+	padding: 8px 0 8px 16px;
+	text-decoration: none;
 }
 
 div{
