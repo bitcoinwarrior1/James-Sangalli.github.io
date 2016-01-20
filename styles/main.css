@@ -35,6 +35,11 @@ h1,h2{
 	color: white;
 }
 
+h4{
+	color: yellow;
+	font: bold;
+}
+
 a{
 	color: white;
 }
