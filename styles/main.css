@@ -3,26 +3,48 @@ p{
     padding: 10px;
     border: 10px;
     margin: 10px;
-    color: navy;
+    color: white;
 }
-h4{
+
+em{
 	text-align: center;
 }
 
-html, body, #container {
- height: 100%; 
+h4{
+	color: yellow;
 }
+
+h5{
+	text-align: center;
+	font-style: italic;
+	color: yellow;
+}
+
+h1{
+	color: yellow;
+}
+
+#container{
+	border:5px;
+	min-height: 10%
+}
+
+html, body, #container {
+ height: 100%;
+}
+
+
 body > #container { 
 	height: auto; min-height: 100%; 
 }
+
+
+html{
+
+}
 	
 body{
-	background-color: lightblue;
-	background: url("https://www.xmple.com/wallpaper/dots-grey-polka-hexagon-white-1920x1080-c2-ffffff-d3d3d3-l2-28-77-a-0-f-4.svg");
-	border-width: 30px;
-	border-color: grey;
-	padding:20px;
-	margin: 25px;
+	background: url("http://www.hdwallpapers.in/walls/earth_and_moon-wide.jpg");
 }
 
 #footer {
