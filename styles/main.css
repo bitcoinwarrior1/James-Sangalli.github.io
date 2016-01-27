@@ -6,7 +6,9 @@ p{
     color: white;
 }
 
-em{
+article{
+	padding: 5px;
+	width: 5px;
 	text-align: center;
 }
 
