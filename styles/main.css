@@ -1,9 +1,10 @@
 p{
-	width: 500px;
-    padding: 10px;
-    border: 10px;
-    margin: 10px;
+
     color: white;
+}
+
+img{
+	max-width: 100%;
 }
 
 article{
@@ -26,10 +27,7 @@ h1{
 	color: yellow;
 }
 
-#container{
-	border:5px;
-	min-height: 10%
-}
+
 
 html, body, #container {
  height: 100%;
@@ -54,7 +52,6 @@ body{
  position: relative;
  height: 3em;
  margin-top: -3em;
- background-color: white;
 }
 
 #content {
@@ -66,7 +63,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: transparent;
     position: fixed;
     top: 0;
     width: 100%;
@@ -78,7 +75,7 @@ li {
 
 li a {
     display: block;
-    color: grey;
+    color: lightblue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
